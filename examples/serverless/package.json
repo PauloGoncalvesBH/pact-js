@@ -19,13 +19,13 @@
   },
   "devDependencies": {
     "@pact-foundation/absolute-version": "0.0.4",
-    "@pact-foundation/pact": "^9.16.0",
-    "aws-sdk": "^2.814.0",
+    "@pact-foundation/pact": "^12.4.0",
+    "aws-sdk": "^2.1598.0",
     "chai": "^3.5.0",
     "lodash": "^4.17.21",
-    "mocha": "^8.2.1",
+    "mocha": "^10.4.0",
     "rimraf": "^2.6.2",
-    "serverless": "^2.18.0"
+    "serverless": "^2.72.4"
   },
   "keywords": [
     "pact",
